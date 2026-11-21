@@ -1,0 +1,6 @@
+{
+  "name": "Criterio Analítica — Segmentación y Estrategia Empresarial",
+  "description": "Plataforma interactiva de ciencia de datos para segmentación mediante aprendizaje no supervisado (clustering), diagnóstico estadístico, perfiles ejecutivos, estrategias de negocio y matriz de impacto y esfuerzo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
